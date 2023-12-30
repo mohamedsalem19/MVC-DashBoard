@@ -1,0 +1,15 @@
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.BLL\obj\Debug\net5.0\MVC Project.BLL.csproj.AssemblyReference.cache
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.BLL\obj\Debug\net5.0\MVC Project.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.BLL\obj\Debug\net5.0\MVC Project.BLL.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.BLL\obj\Debug\net5.0\MVC Project.BLL.AssemblyInfo.cs
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.BLL\obj\Debug\net5.0\MVC Project.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.BLL\bin\Debug\net5.0\MVC Project.BLL.deps.json
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.BLL\bin\Debug\net5.0\MVC Project.BLL.dll
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.BLL\bin\Debug\net5.0\MVC Project.BLL.pdb
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.BLL\bin\Debug\net5.0\MVC Project.DAL.dll
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.BLL\bin\Debug\net5.0\MVC Project.DAL.pdb
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.BLL\obj\Debug\net5.0\MVC Project.BLL.csproj.CopyComplete
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.BLL\obj\Debug\net5.0\MVC Project.BLL.dll
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.BLL\obj\Debug\net5.0\refint\MVC Project.BLL.dll
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.BLL\obj\Debug\net5.0\MVC Project.BLL.pdb
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.BLL\obj\Debug\net5.0\ref\MVC Project.BLL.dll

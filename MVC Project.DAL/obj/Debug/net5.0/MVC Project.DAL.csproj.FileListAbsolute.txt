@@ -1,0 +1,12 @@
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.DAL\bin\Debug\net5.0\MVC Project.DAL.deps.json
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.DAL\bin\Debug\net5.0\MVC Project.DAL.dll
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.DAL\bin\Debug\net5.0\MVC Project.DAL.pdb
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.DAL\obj\Debug\net5.0\MVC Project.DAL.csproj.AssemblyReference.cache
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.DAL\obj\Debug\net5.0\MVC Project.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.DAL\obj\Debug\net5.0\MVC Project.DAL.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.DAL\obj\Debug\net5.0\MVC Project.DAL.AssemblyInfo.cs
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.DAL\obj\Debug\net5.0\MVC Project.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.DAL\obj\Debug\net5.0\MVC Project.DAL.dll
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.DAL\obj\Debug\net5.0\refint\MVC Project.DAL.dll
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.DAL\obj\Debug\net5.0\MVC Project.DAL.pdb
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.DAL\obj\Debug\net5.0\ref\MVC Project.DAL.dll
